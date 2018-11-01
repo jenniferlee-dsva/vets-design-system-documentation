@@ -6,8 +6,8 @@ title: Content Style Guide
 
 # Content Style Guide
 
-Welcome to the content style guide.
+Welcome to the content style guide for VA.gov.
 
-## Principles
+## Content principles
 
-Plain language
+lorem ipsum...
